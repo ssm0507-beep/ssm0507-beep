@@ -37,8 +37,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=여기에아이디&show_icons=true&theme=tokyonight" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=여기에아이디&layout=compact&theme=tokyonight" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ssm0507-beep&show_icons=true&theme=tokyonight" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssm0507-beep&layout=compact&theme=tokyonight" height="180"/>
 
 </div>
 
@@ -48,7 +48,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=여기에아이디&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ssm0507-beep&theme=tokyo-night"/>
 
 </div>
 
