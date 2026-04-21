@@ -4,34 +4,85 @@
 #### 한신대학교 소웨융 신승민입니다. 👍
 # 안녕하세요, 신승민입니다 👋
 
-🎓 소프트웨어융합학부  
-💻 Java, Python, C를 공부하고 있습니다.  
-📚 자료구조, 데이터통신, 확률과 통계를 학습 중입니다.  
+<div align="center">
+
+# 🚀 Shin Seungmin
+
+### 💻 Software Engineering Student
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Welcome%20to%20my%20GitHub&fontSize=40&fontColor=ffffff"/>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+- 🎓 소프트웨어융합학부 재학
+- 📚 Data Structures / Data Communication / Probability & Statistics
+- 🚗 문제 해결하는 개발자 지향
 
 ---
 
 ## 🛠 Tech Stack
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
----
+<div align="center">
 
-## 📌 Projects
-- 프로젝트 1: 설명 작성
-- 프로젝트 2: 설명 작성
-- 프로젝트 3: 설명 작성
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,git,github" />
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=여기에아이디&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=여기에아이디&layout=compact)
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=여기에아이디&show_icons=true&theme=tokyonight" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=여기에아이디&layout=compact&theme=tokyonight" height="180"/>
+
+</div>
+
+---
+
+## 🔥 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=여기에아이디&theme=tokyo-night"/>
+
+</div>
+
+---
+
+## 🧠 Problem Solving
+
+<div align="center">
+
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=여기에백준아이디" />
+
+</div>
+
+---
+
+## 📌 Featured Projects
+
+- 🚀 **Project 1** : 설명 작성
+- 🔐 **Project 2** : 설명 작성
+- 📊 **Project 3** : 설명 작성
 
 ---
 
 ## 📫 Contact
-- Email: ssm0507@hs.ac.kr
+
+- 📧 Email: ssm0507@hs.ac.kr
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=150&section=footer"/>
+
+</div>
 
 ## Hi there 👋
 
