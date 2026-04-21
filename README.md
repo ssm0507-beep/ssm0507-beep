@@ -54,16 +54,6 @@
 
 ---
 
-## 🧠 Problem Solving
-
-<div align="center">
-
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=여기에백준아이디" />
-
-</div>
-
----
-
 ## 📌 Featured Projects
 
 - 🚀 **Project 1** : 설명 작성
