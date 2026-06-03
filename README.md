@@ -102,3 +102,60 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 🔮 오늘의 운세 생성기
+
+AI를 활용한 **Vibe Coding 실습 과제**로 제작한 웹사이트입니다.  
+버튼을 클릭하면 오늘의 운세가 랜덤으로 생성됩니다.
+
+---
+
+## 🌐 배포 주소
+
+👉 https://ssm0507-beep.github.io/daily-luck-generator/
+
+---
+
+## 📌 프로젝트 소개
+
+이 프로젝트는 HTML, CSS, JavaScript를 사용하여 만든  
+간단한 **오늘의 운세 생성기 웹페이지**입니다.
+
+운세 버튼을 누르면 다음 항목의 결과가 랜덤으로 출력됩니다.
+
+- 🌈 총운
+- 💘 연애운
+- 📚 학업운
+- 💰 금전운
+
+각 운세는 별점과 함께 표시되며, 다크모드와 반응형 디자인을 적용했습니다.
+
+---
+
+## 🛠 사용 기술
+
+- HTML5
+- CSS3
+- JavaScript
+- GitHub Pages
+
+---
+
+## ✨ 주요 기능
+
+- 🔮 랜덤 운세 생성
+- ⭐ 별점 표시
+- 🌈 총운 / 연애운 / 학업운 / 금전운 제공
+- 🌙 다크모드 지원
+- 📱 모바일 반응형 디자인
+- 🎨 카드형 UI
+- ✨ 부드러운 애니메이션 효과
+
+---
+
+## 📂 파일 구성
+
+```text
+daily-luck-generator/
+├── index.html
+└── README.md
